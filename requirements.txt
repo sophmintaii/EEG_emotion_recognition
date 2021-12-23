@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+seaborn
+sklearn
+IPython
+jupyter_client
+jupyter_core
+notebook
