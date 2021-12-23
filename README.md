@@ -13,3 +13,6 @@ cd EEG_emotion_recognition
 ```bash
 pip install -r requirements.txt
 ```
+
+## Data
+Dataset used can be found on (Kaggle)[https://www.kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions].
