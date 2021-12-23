@@ -15,4 +15,4 @@ pip install -r requirements.txt
 ```
 
 ## Data
-Dataset used can be found on (Kaggle)[https://www.kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions].
+Dataset used can be found on (https://www.kaggle.com/birdy654/eeg-brainwave-dataset-feeling-emotions)[Kaggle].
